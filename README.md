@@ -10,8 +10,7 @@ topic-A
 
 topic-B
 
-<<<<<<< HEAD
 topic-C
-=======
+
 topic-D
->>>>>>> topic-D
+
